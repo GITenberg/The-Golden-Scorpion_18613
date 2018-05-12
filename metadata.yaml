@@ -1,0 +1,33 @@
+_repo: The-Golden-Scorpion_18613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: An international gang of assassins is mysteriously linked to the elimination
+  of the greatest scientific minds of the world. What could be the motivation behind
+  this insidious scheme? Will the love of an exotic beauty thwart the evil machinations
+  of the nefarious Chinese henchman? Follow the adventures of Sax Rohmer's famous
+  detectives Gaston Max and Inspector Dunbar on the trail of the Golden Scorpion.
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Golden Scorpion
+url: http://www.gutenberg.org/ebooks/18613
